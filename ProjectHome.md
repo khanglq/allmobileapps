@@ -1,0 +1,1 @@
+Future support for all platform
